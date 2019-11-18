@@ -1,1 +1,8 @@
-
+*.DS_Store
+*.csproj
+/Library
+/Forest2/Library
+.vs/
+obj/
+Temp/
+Builds/
